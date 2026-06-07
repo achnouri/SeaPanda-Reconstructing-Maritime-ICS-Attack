@@ -1,6 +1,6 @@
  # Reconstructing the Maritime Industrial Control System Attack
 
-This attack reconstructing was played in **Secodojo** labs during **DSGN** competetion
+This attack reconstruction was played in **Secodojo** labs during the **DSGN** competition
 
 <img src="./imgs/SepandaLab.png" width="90%"><br><br>
 
